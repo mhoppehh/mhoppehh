@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mitchell Hoppe
-- 👀 I’m interested in snowboarding, hiking, and volleyball
-- 🌱 I’m currently learning Typescript, React
+- 👋 Hi, I’m Mitchell
+- 👀 I do snowboarding, hiking, and volleyball in my free time
+-  I'm proficient in Typescript, React, and GraphQL
 - 💞️ I’m looking to collaborate on React / React Native Applications
 - 📫 How to reach me me@mitchellhoppe.dev
 
